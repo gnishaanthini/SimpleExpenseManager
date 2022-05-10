@@ -34,7 +34,7 @@ public class PersistantMemoryAccountDAOTest {
 
     @Test
     public void addAccount() throws InvalidAccountException {
-        String accountNo="809605B";
+        String accountNo="8096895B";
         String bankName = "BMN";
         String accountHolderName = "XYZ";
         Double balance = 12000.0;
